@@ -127,5 +127,4 @@ See `database/queries.sql` for:
 - Code includes detailed comments
 - Simple, readable, and explainable
 
-## Author
-BSc in ICT - 4th Semester DBMS Project
+
