@@ -5,7 +5,7 @@
 ## Project Overview
 A comprehensive database management system for tracking student nutrition intake and fitness records in a university canteen environment.
 
-### Academic Focus
+### Academic Focus 
 - ✅ Database Design & Normalization (1NF, 2NF, 3NF)
 - ✅ Raw SQL Queries (JOINs, Aggregations, GROUP BY)
 - ✅ Data Analysis & Reporting
